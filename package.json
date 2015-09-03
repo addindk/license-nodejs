@@ -1,0 +1,23 @@
+{
+  "name": "license-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/addindk/license-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/addindk/license-nodejs/issues"
+  },
+  "homepage": "https://github.com/addindk/license-nodejs#readme",
+  "dependencies": {
+    "pg": "^4.4.1",
+    "pg-native": "^1.8.1"
+  }
+}
